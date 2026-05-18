@@ -1,2 +1,2 @@
 # My_Credit_Score
-Developing a Fico style credit score model for determining creditworthiness of borrowers
+Developing a FICO style credit score model for determining the creditworthiness of loan applicants.
